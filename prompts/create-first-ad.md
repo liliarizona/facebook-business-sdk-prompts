@@ -1,7 +1,15 @@
-# Prompt: Create Your First Facebook Ad Using Python Business SDK
+# Prompt: Create Your First Facebook Ad Using Facebook Business SDK
 
 **Description:**  
-This prompt provides a code snippet and instructions for creating your first Facebook ad using the Facebook Python Business SDK.
+This prompt provides a code snippet and instructions for creating your first Facebook ad using the Facebook Business SDK.
+
+---
+
+## 📝 Prompt to Generate This Code
+
+Copy and use the following prompt in your AI tool (e.g., Copilot, ChatGPT, Gemini) or code assistant to generate the code example below:
+
+> Generate a script using the Facebook Business SDK that creates a new ad campaign, ad set, ad creative, and ad. Use placeholders for app ID, app secret, access token, ad account ID, and page ID. Comment each step.
 
 ---
 
